@@ -1,6 +1,8 @@
 # sql-challenge
 Module 9 Challenge
 
+Files are in EmployeeSQL folder
+
 EmployeeSQL_ERD.pgerd contains the Database ERD in pgAdmin 4 format.
 EmployeeSQL_ERD.pgerd.png is a PNG file of the same information.
 
